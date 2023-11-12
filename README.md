@@ -7,7 +7,7 @@
 
 ```
 .env
-NEXT_PUBLIC_API_URL=
+NEXT_PUBLIC_API_URL=http://localhost:3000/api/0326e7fc-6f4d-427b-bbcc-04dcc189095c
 ```
 First, run the development server:
 
